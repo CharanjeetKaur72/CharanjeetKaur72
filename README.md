@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @CharanjeetKaur72
-- 👀 I have worked as a programmer long back on the platforms like : Visual Basic, ASP, SQL
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on web development projects
+I’m Charanjeet Kaur, worked as a programmer long back on the platforms like : Visual Basic, ASP, SQL. I’m currently learning web development.
 
 <!---
 CharanjeetKaur72/CharanjeetKaur72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
